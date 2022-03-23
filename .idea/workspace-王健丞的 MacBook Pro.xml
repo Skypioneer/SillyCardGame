@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31462a6d-860f-409e-9c3a-5dc77fac1e83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1g23MQsXyp3ueTDRHpMh7TtdmlI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SillyCardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cwang_P3X.SillyCardGame" />
+      <module name="cwang_P3X" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cwang_P3X.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SillyCardGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31462a6d-860f-409e-9c3a-5dc77fac1e83" name="Default Changelist" comment="" />
+      <created>1597298812248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597298812248</updated>
+      <workItem from="1597298813431" duration="639000" />
+      <workItem from="1597299979729" duration="424000" />
+      <workItem from="1597300647515" duration="40000" />
+      <workItem from="1597337993969" duration="106000" />
+      <workItem from="1597345300651" duration="327000" />
+      <workItem from="1597346483763" duration="91000" />
+      <workItem from="1598212622232" duration="101000" />
+      <workItem from="1598914005481" duration="361000" />
+      <workItem from="1598917072658" duration="79000" />
+      <workItem from="1610218491272" duration="4309000" />
+      <workItem from="1610233964129" duration="11023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="334" key="GridCell.Tab.0.bottom" timestamp="1610330039184">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="334" key="GridCell.Tab.0.bottom/-1288.55.1288.946/0.0.1680.1050@0.0.1680.1050" timestamp="1610274291939" />
+    <state width="1638" height="334" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1610330039184" />
+    <state width="1638" height="334" key="GridCell.Tab.0.center" timestamp="1610330039183">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="334" key="GridCell.Tab.0.center/-1288.55.1288.946/0.0.1680.1050@0.0.1680.1050" timestamp="1610274291936" />
+    <state width="1638" height="334" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1610330039183" />
+    <state width="1638" height="334" key="GridCell.Tab.0.left" timestamp="1610330039182">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="334" key="GridCell.Tab.0.left/-1288.55.1288.946/0.0.1680.1050@0.0.1680.1050" timestamp="1610274291935" />
+    <state width="1638" height="334" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1610330039182" />
+    <state width="1638" height="334" key="GridCell.Tab.0.right" timestamp="1610330039183">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="334" key="GridCell.Tab.0.right/-1288.55.1288.946/0.0.1680.1050@0.0.1680.1050" timestamp="1610274291938" />
+    <state width="1638" height="334" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610330039183" />
+    <state x="349" y="161" key="SettingsEditor" timestamp="1610218524674">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/-1288.55.1288.946/0.0.1680.1050@0.0.1680.1050" timestamp="1610218524674" />
+  </component>
+</project>
